@@ -4,5 +4,7 @@ There are two different scripts in the folder:
 1. A basic Python script that runs in a terminal.
 2. The same script that is adapted to run using Streamlit.
 
+Access the Streamlitapp here: https://removepdfspaces.streamlit.app/
+
 In case you have any questions or suggestions, please send me an email: felipeaugnobrega@gmail.com
 
